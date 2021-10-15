@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/fernandoricardomoran/NodeApp/issues"
   },
-  "homepage": "https://github.com/fernandoricardomoran/NodeApp#readme"
+  "homepage": "https://github.com/fernandoricardomoran/NodeApp#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
